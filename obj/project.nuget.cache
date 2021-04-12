@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GaMXA49PpBxUO1gtPx7fXw+Wohl5am6+LNROU5GIhEMdSLLUQISFU1130+AScfk/YXTgq+anTnzGpSQTah/LuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wisfa\\Desktop\\Module2SofwareArc\\Module2SofwareArc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wisfa\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

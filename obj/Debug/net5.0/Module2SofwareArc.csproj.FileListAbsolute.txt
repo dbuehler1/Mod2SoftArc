@@ -1,0 +1,16 @@
+C:\Users\wisfa\Desktop\Module2SofwareArc\bin\Debug\net5.0\Module2SofwareArc.exe
+C:\Users\wisfa\Desktop\Module2SofwareArc\bin\Debug\net5.0\Module2SofwareArc.deps.json
+C:\Users\wisfa\Desktop\Module2SofwareArc\bin\Debug\net5.0\Module2SofwareArc.runtimeconfig.json
+C:\Users\wisfa\Desktop\Module2SofwareArc\bin\Debug\net5.0\Module2SofwareArc.runtimeconfig.dev.json
+C:\Users\wisfa\Desktop\Module2SofwareArc\bin\Debug\net5.0\Module2SofwareArc.dll
+C:\Users\wisfa\Desktop\Module2SofwareArc\bin\Debug\net5.0\ref\Module2SofwareArc.dll
+C:\Users\wisfa\Desktop\Module2SofwareArc\bin\Debug\net5.0\Module2SofwareArc.pdb
+C:\Users\wisfa\Desktop\Module2SofwareArc\obj\Debug\net5.0\Module2SofwareArc.csprojAssemblyReference.cache
+C:\Users\wisfa\Desktop\Module2SofwareArc\obj\Debug\net5.0\Module2SofwareArc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wisfa\Desktop\Module2SofwareArc\obj\Debug\net5.0\Module2SofwareArc.AssemblyInfoInputs.cache
+C:\Users\wisfa\Desktop\Module2SofwareArc\obj\Debug\net5.0\Module2SofwareArc.AssemblyInfo.cs
+C:\Users\wisfa\Desktop\Module2SofwareArc\obj\Debug\net5.0\Module2SofwareArc.csproj.CoreCompileInputs.cache
+C:\Users\wisfa\Desktop\Module2SofwareArc\obj\Debug\net5.0\Module2SofwareArc.dll
+C:\Users\wisfa\Desktop\Module2SofwareArc\obj\Debug\net5.0\ref\Module2SofwareArc.dll
+C:\Users\wisfa\Desktop\Module2SofwareArc\obj\Debug\net5.0\Module2SofwareArc.pdb
+C:\Users\wisfa\Desktop\Module2SofwareArc\obj\Debug\net5.0\Module2SofwareArc.genruntimeconfig.cache
